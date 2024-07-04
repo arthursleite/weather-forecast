@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.leite</groupId>
-    <artifactId>ProjetoLeague</artifactId>
+    <artifactId>WeatherForecast</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>ProjetoLeague</name>
+    <name>WeatherForecast</name>
     <packaging>war</packaging>
 
     <properties>
